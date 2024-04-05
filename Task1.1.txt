@@ -1,0 +1,7 @@
+Task 1.1 - Functional Requirement For Contact Tracking App
+
+1. The system should add new contacts.
+2. The system should update existing contacts.
+3. The system should delete old contacts.
+4. The system should be able to search through the contacts.
+5. The system should merge duplicate contacts.
